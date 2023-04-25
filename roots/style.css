@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(127, 150, 255);
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    color: rgb(10, 55, 255);
+    display: flex;
+    justify-content: center;
+}
+* {
+    background-color: rgb(248, 242, 235);
+}
